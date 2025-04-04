@@ -1,5 +1,4 @@
 # amusement-park-database-management-system
-# amusement-park-database-management-system
 import mysql.connector as sqltor 
 con=sqltor.connect(host="localhost",user="root",password="devi",d
  atabase="Amusement_Park") 
